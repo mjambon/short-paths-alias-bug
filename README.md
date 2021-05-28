@@ -1,2 +1,5 @@
-# short-paths-alias-bug
-bug repro
+Show bug with:
+```
+$ make
+```
+
